@@ -1,7 +1,5 @@
 # Magnificent-Seven-Analysis-with-Python-and-Tableau
 
-# Magnificent Seven Analysis with Python and Tableau
-
 A comprehensive data analysis project examining the market dominance and financial performance of the "Magnificent Seven" tech stocks (Apple, Microsoft, Google, Amazon, Meta, Tesla, and Nvidia) compared to the broader S&P 500 universe.
 
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/gourav.pal/viz/Mags/MagnificentSevenAnalysis)
