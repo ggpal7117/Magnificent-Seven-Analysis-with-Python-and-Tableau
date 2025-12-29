@@ -29,14 +29,14 @@ The project generates data for six core visualizations:
 ## 🛠️ Technical Implementation
 
 ### Data Sources
-- **Yahoo Finance API** - Primary data source via `yahooquery` library
+- **Stockdex Finance API** - Primary data source via `stockdex` library
 - **S&P 500 Universe** - 500+ tickers including MAG7 constituents
 - **Time Period** - Historical data through January 2025
 
 ### Technology Stack
 - **Python 3.x** - Core programming language
 - **Pandas & NumPy** - Data manipulation and numerical computing
-- **yahooquery** - Yahoo Finance data extraction
+- **stockdex** - Stockdex Finance data extraction
 - **Tableau Public** - Data visualization and dashboard creation
 
 ### Project Structure
@@ -51,7 +51,7 @@ The project generates data for six core visualizations:
 
 ### Prerequisites
 ```bash
-pip install pandas numpy yahooquery tqdm
+pip install pandas numpy stockdex tqdm
 ```
 
 ### Running the Analysis
