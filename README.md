@@ -7,7 +7,7 @@ A comprehensive data analysis project examining the market dominance and financi
 
 ## 📊 Project Overview
 
-This project leverages Python for automated data collection and transformation, combined with Tableau for interactive visualization. The analysis explores the outsized influence of seven mega-cap technology companies on overall market performance, valuation, and growth metrics.
+This project leverages Python for automated data collection and transformation, combined with Tableau for interactive visualization. The analysis examines the significant impact of seven mega-cap technology companies on overall market performance, valuation, and growth metrics.
 
 ### Key Questions Addressed
 - What percentage of S&P 500 market capitalization do the Magnificent Seven represent?
@@ -91,9 +91,9 @@ The Magnificent Seven companies demonstrate disproportionate influence on S&P 50
 ## 🔄 Data Pipeline Architecture
 
 ```
-Yahoo Finance API
+Yahoo Finance/Stockdex API
         ↓
-Python Data Scraping (yahooquery)
+Python Data Scraping 
         ↓
 Data Transformation (Pandas)
         ↓
